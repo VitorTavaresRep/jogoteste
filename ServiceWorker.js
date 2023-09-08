@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project (1)-1.0";
 const contentToCache = [
-    "Build/git.loader.js",
-    "Build/git.framework.js.br",
-    "Build/git.data.br",
-    "Build/git.wasm.br",
+    "Build/WebBuild.loader.js",
+    "Build/WebBuild.framework.js",
+    "Build/WebBuild.data",
+    "Build/WebBuild.wasm",
     "TemplateData/style.css"
 
 ];
